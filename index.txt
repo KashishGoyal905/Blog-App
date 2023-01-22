@@ -1,0 +1,6 @@
+22/01/23
+made the topbar or the navbar of the site.
+    KeyPoints:
+        created a folder for the topbar and created two files inside it to make the top bar.
+        used font awesome for the social icons
+    

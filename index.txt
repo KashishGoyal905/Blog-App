@@ -1,6 +1,26 @@
 22/01/23
 made the topbar or the navbar of the site.
     KeyPoints:
-        created a folder for the topbar and created two files inside it to make the top bar.
-        used font awesome for the social icons
+        created a folder for the top bar and created two files inside it to make the top bar.
+        used font awesome for the social icons.
+        will use it on all the pages.
+
+
+23/01/23
+working on header
+    KeyPoints:
+        created a folder for the header and will use this page only on the home page.
+        created another folder for pages.
+        inside that created another folder for the home page.
+        styled it
+
+working on sidebar
+    KeyPoints:
+        created the file and imported it inside the home page.
+        did some styling and putted some content there.
+working on posts pages
+    KeyPoints:
+        created the file and imported it inside the home page.
+        created another folder for specific post and imported inside the posts folder.
+        
     
